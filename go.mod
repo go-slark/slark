@@ -59,7 +59,7 @@ require (
 	k8s.io/api v0.29.2
 	k8s.io/apimachinery v0.29.3
 	k8s.io/client-go v0.29.2
-	mosn.io/holmes v1.0.2
+	mosn.io/holmes v1.1.0
 )
 
 require (
