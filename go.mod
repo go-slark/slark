@@ -56,7 +56,7 @@ require (
 	gorm.io/driver/mysql v1.5.6
 	gorm.io/gorm v1.25.7
 	gorm.io/plugin/opentelemetry v0.1.4
-	k8s.io/api v0.29.2
+	k8s.io/api v0.29.3
 	k8s.io/apimachinery v0.29.3
 	k8s.io/client-go v0.29.2
 	mosn.io/holmes v1.0.2
